@@ -1,0 +1,8 @@
+numpy
+sounddevice
+scipy
+whisper
+IPython
+torch
+TTS
+transformers
